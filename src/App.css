@@ -1,0 +1,72 @@
+
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+.longest {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#root {
+    font-family: monospace;
+    padding: 20px;
+    background: white;
+}
+#text {
+    font-family: cursive;
+    padding: 20px;
+    background: orange;
+}
+.translate {
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+h3 {
+    padding: 10px;
+    margin: auto;
+    font-size: 30px;
+}
+
+.form {
+    margin: auto;
+    padding: 10px;
+    background: white;
+}
+
+label {
+    font-family: monospace;
+    padding: 10px 5px;
+    background: gold;
+}
+
+button {
+    background: gold;
+    font-weight: bold;
+    padding: 10px;
+}
+
+textarea {
+    border: 5px solid gold;
+    padding: 10px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+button:hover {
+    background: tomato;
+}
+
+button:focus {
+    background: gray;
+    color: white;
+}
