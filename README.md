@@ -1,4 +1,4 @@
-![screenshot Morse Code Translator](https://s4.aconvert.com/convert/p3r68-cdx67/cbw9d-h2a34.jpg)
+![screenshot Morse Code Translator](morse-translate.png)
 
 # Morse Code Translator
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
